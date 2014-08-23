@@ -1,0 +1,67 @@
+body
+{
+  background: url('../images/background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color:#fff;
+    background-color:#333;
+    font-family: 'Open Sans',Arial,Helvetica,Sans-Serif;
+}
+
+.transparency {
+  background-color:rgba(0,0,0,0.3);
+}
+
+.fullTransparent{
+  background-color: :rgba(0,0,0,0,0);
+}
+
+.block {
+  height:500px;
+}
+
+.block-small{
+  height:400px;
+}
+
+.carouselText {
+    width:400px;
+    margin: 0 auto;
+}
+
+.carouselItem {
+  height:600px;
+}
+
+.img-centered {
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.navbar-right{
+	margin-right: 0px !important;
+}
+
+.mastfoot {
+    bottom: 0px;
+}
+
+#logo {
+  max-width: 60%;
+  height: auto;
+}
+
+#mainBody {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-left: 32px;
+  margin-right: 32px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
