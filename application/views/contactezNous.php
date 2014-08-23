@@ -4,7 +4,7 @@
     <div class="col-md-3"></div>
 
     <div class="col-md-6">
-        <div class="transparency block">
+        <div class="transparency biggerBlock">
 
           <div class="row">
             <img src=<?php echo img_url("contact.png")?> alt="phone" class="img-responsive img-centered">
