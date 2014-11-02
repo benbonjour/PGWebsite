@@ -20,7 +20,7 @@
          Canada</p>
 
          <h3>Téléphone</h3>
-          <p>514-000-0000 poste 2456</p>
+          <p>Coming Soon</p>
         </div>
     </div>
 

@@ -6,7 +6,7 @@
           <img src=<?php echo img_url("nosButs.png")?> alt="Net with soccer balls" class="img-responsive img-centered">
           <div class="caption">
             <h4>Nos buts :</h4>
-            <p>PolyGames est une société technique dont le but premier est de promouvoir la création de jeux vidéos amateur comme moyen d'apprentissage. Montrer de nouveaux patrons de conceptions et effectuer des projets sur divers plateformes et cadriciels permet à nos membres d'augmenter leurs connaissances. D'ailleurs, PolyGames promouvoie l'organisation, le travail d'équipe, l'ingéniosité et la créativité chez ses membres en les confrontant à des défis variés et originaux.</p>
+            <p>PolyGames est une société technique constituée d'étudiants motivés dont le but premier est de promouvoir la création de jeux vidéo. PolyGames encourage l'organisation, le travail d'équipe, l'ingéniosité et la créativité chez ses membres en les confrontant à des défis variés et originaux.</p>
           </div>
         </div>
       </div>
@@ -15,8 +15,8 @@
           <img src=<?php echo img_url("fonctionnement.png")?> alt="working methodologies" class="img-responsive img-centered">
           <div class="caption">
             <h4>Mode de fonctionnement :</h4>
-            <p>PolyGames réunit un petit nombre d'équipes de 3 à 5 étudiants, qui, en une session, devront développer en entier un jeu et l'améliorer de diverses manières. Les jeux en question sont prédéfinis par certains critères et sont divisés en trois catégories : facile, moyen et difficile. Tout au long de la session, les équipes utiliseront la méthodologie « SCRUM » et seront supervisées par un gestionnaire de développement attitré.</p>
-      </div>
+            <p>PolyGames réunit des équipes de 3 à 5 étudiants, qui développent en entier un jeu en une session ou plus. Tout au long de la session, les équipes utiliseront la méthodologie « SCRUM » et seront supervisées par un gestionnaire de développement attitré.</p>
+          </div>
         </div>
       </div>
       <div class="col-sm-6 col-md-4">
@@ -24,8 +24,8 @@
           <img src=<?php echo img_url("plus.png")?> alt="Even more" class="img-responsive img-centered">
           <div class="caption">
             <h4>Plus encore :</h4>
-            <p>PolyGames rassemble ainsi une communauté avide de jeux vidéos à qui elle consacre une panoplie d'activités telles que des conférences, des compétitions de jeux vidéos, des défis de programmation de courte durée et plus encore.</p>
-      </div>
+            <p>PolyGames rassemble ainsi une communauté avide de jeux vidéo à qui elle consacre une panoplie d'activités telles que des conférences, des Hackathon et plus encore.</p>
+          </div>
         </div>
       </div>
     </div>
@@ -43,21 +43,13 @@
       </div>
       <div class="col-sm-6 col-md-4">
         <div class="block transparency">
-          <img src=<?php echo img_url("jp.png")?> alt="Jean-Philippe Lévesque" class="img-responsive img-centered">
+          <img src=<?php echo img_url("ca.png")?> alt="Chali-Anne Lauzon" class="img-responsive img-centered">
           <div class="caption">
-            <h4>Directeur projet</h4>
-            <p>	En tant que directeur projet, <b>Jean-Philippe Lévesque</b> se doit de gérer le déroulement du développement de jeux vidéo par les différentes équipes de la société, ainsi que de coordonner les superviseurs d’équipes (PO).</p>
-		  </div>
-        </div>
-      </div>
-      <div class="col-sm-6 col-md-4">
-        <div class="block transparency">
-          <img src=<?php echo img_url("nf.png")?> alt="Nabil Fates" class="img-responsive img-centered">
-          <div class="caption">
-            <h4>Directeur social et trésorier</h4>
-            <p>En tant que directeur social, <b>Nabil Fates</b> se doit d’aider à l’organisation d’évènements en relation avec l’industrie, ainsi que les évènements internes comme les « Game Jam », les conférences et les visites d’entreprises.</p>
-		  </div>
+            <h4>Secrétaire</h4>
+            <p>	En tant que secrétaire, <b>Chali-Anne Lauzon</b> se doit de gérer et coordonner avec l'aide du directeur l'ensemble des activités de la société. Elle participe également à la rédaction des documents officiels.</p>
+		      </div>
         </div>
       </div>
     </div>
+    
 </div>

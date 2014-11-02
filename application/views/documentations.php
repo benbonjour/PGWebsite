@@ -10,6 +10,7 @@
             <p>
             	<ul>
             		<li><a href=<?php echo doc_url("TutorielGit.pdf") ?>>Tutoriel Git V 1.1</a></li>
+                <li><a href=<?php echo doc_url("Unity_tutorial.pdf") ?>>Tutoriel Unity</a></li>
             	</ul>
             </p>
           </div>
@@ -25,6 +26,7 @@
             	<ul>
             		<li><a href=<?php echo doc_url("EquipesItération1V1.0.pdf")?>>Liste des équipes A_2013 V 1.0</a></li>
             		<li><a href=<?php echo doc_url("EquipesItération2V1.0.pdf")?>>Liste des équipes H_2014 V 1.0</a></li>
+                <li><a href=<?php echo doc_url("EquipesItération3V1.0.pdf")?>>Liste des équipes A_2014 V 1.0</a></li>
             		<li><a href=<?php echo doc_url("Document_Conception.docx")?>>Document de conception</a></li>
             	</ul>
             </p>
