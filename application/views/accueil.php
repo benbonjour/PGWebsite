@@ -22,7 +22,7 @@
               </div>
             </div>
 
-            <div id="pgHack2014"class="item carouselItem">
+            <div id="pgHack2014" class="item carouselItem">
               <img class="img-responsive img-centered" src=<?php echo img_url("toBeAnnounced.png")?> alt="Hackhaton 2015 banner">
               <div class="carouselText">
                 <h2 class="featurette-heading"> TBA /2015 <br> <span class="text-muted">Poly Games Hackathon 2</span></h2>
@@ -114,7 +114,7 @@
             <img class="img-responsive img-left" src=<?php echo img_url("creationEquipes.png")?> alt="Création des équipes">
           </div>
           <div class= "col-md-9">
-            <p><h4 class="text-left">9 Septembre 2014</h4></p>
+            <h4 class="text-left">9 Septembre 2014</h4>
             <br>
             <p>Création des équipes de la troisième itération qui comptent maintenant des étudiants du NAD. Bienvenue à tous!</p>
           </div>
@@ -127,7 +127,7 @@
             <img class="img-responsive img-left" src=<?php echo img_url("gameJam.png")?> alt="Game Jam">
           </div>
           <div class= "col-md-9">
-            <p><h4 class="text-left">8-10 Août 2014</h4></p>
+            <h4 class="text-left">8-10 Août 2014</h4>
             <br>
             <p>Le premier Game Jam au NAD! Un gros merci à tous ceux qui ont rendu cet évènement possible!</p>
           </div>
@@ -140,7 +140,7 @@
             <img class="img-responsive img-left" src=<?php echo img_url("polygamesHackhaton.png")?> alt="Hackhaton 2014 banner">
           </div>
           <div class= "col-md-9">
-            <p><h4 class="text-left">5 et 6 Mars 2014</h4></p>
+            <h4 class="text-left">5 et 6 Mars 2014</h4>
             <br>
             <p>Première compétition officielle organisée par Poly Games, 36 heures de création vous attendent! <a href=<?php echo site_url("start/competitions")?>>En savoir plus </a></p>
           </div>
@@ -153,7 +153,7 @@
             <img class="img-responsive img-left" src=<?php echo img_url("desArtistes.png")?> alt="Des artistes">
           </div>
           <div class= "col-md-9">
-            <p><h4 class="text-left">10 Février 2014</h4></p>
+            <h4 class="text-left">10 Février 2014</h4>
             <br>
             <p>Gros merci à <b>Haly Boris</b> pour avoir demander à son entourage s'il y avait des intéressés à rejoindre des équipes.</p>
           </div>
@@ -166,7 +166,7 @@
             <img class="img-responsive img-left" src=<?php echo img_url("rencontrePO.png")?> alt="Rencontre des P.O.">
           </div>
           <div class= "col-md-9">
-            <p><h4 class="text-left">30 Janvier 2014</h4></p>
+            <h4 class="text-left">30 Janvier 2014</h4>
             <br>
             <p>Au programme : discussions sur l'ensemble de l'organisation de la dynamique des P.O. pour la deuxième itération.</p>
           </div>
@@ -179,7 +179,7 @@
             <img class="img-responsive img-left" src=<?php echo img_url("creationEquipes.png")?> alt="Création des équipes">
           </div>
           <div class= "col-md-9">
-            <p><h4 class="text-left">23 Janvier 2014</h4></p>
+            <h4 class="text-left">23 Janvier 2014</h4>
             <br>
             <p>La liste des P.O. et des équipes enregistrées sont maintenant disponible sur le groupe facebook de Poly Games ainsi que dans la section documents.</p>
           </div>
@@ -192,7 +192,7 @@
             <img class="img-responsive img-left" src=<?php echo img_url("tutorielGit.png")?> alt="Tutoriel git">
           </div>
           <div class= "col-md-9">
-            <p><h4 class="text-left">16 Janvier 2014</h4></p>
+            <h4 class="text-left">16 Janvier 2014</h4>
             <br>
             <p>Le tutoriel est maintenant disponible sur le groupe facebook de la société ainsi que dans la section documents.</p>
           </div>
@@ -205,7 +205,7 @@
             <img class="img-responsive img-left" src=<?php echo img_url("reunionCloture.png")?> alt="Réunion de clôture">
           </div>
           <div class= "col-md-9">
-            <p><h4 class="text-left">9 Janvier 2014</h4></p>
+            <h4 class="text-left">9 Janvier 2014</h4>
             <br>
             <p>Bravo à <b>Julien et ses Noobs</b> d'avoir gagné cette première itération!</p>
           </div>

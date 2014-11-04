@@ -2,7 +2,7 @@
 
         <div class="inner">
             <p class="text-center">
-                </br>Poly Games 2014, tous droits réservés.
+                <br>Poly Games 2014, tous droits réservés.
             </p>
         </div>
     </div>
