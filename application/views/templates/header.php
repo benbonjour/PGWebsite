@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Poly Games</title>
-    <meta name="viewport" charset="utf-8" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
     
     <!-- Bootstrap background =<?php echo img_url("testBackground.png")?> -->
     <link href=<?php echo css_url("bootstrap.min")?> rel="stylesheet">
