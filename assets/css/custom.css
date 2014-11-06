@@ -10,6 +10,10 @@ body
     font-family: 'Open Sans',Arial,Helvetica,Sans-Serif;
 }
 
+.shadow {
+  background-color:rgba(0,0,0,0.8);
+}
+
 .transparency {
   background-color:rgba(0,0,0,0.3);
 }
@@ -20,15 +24,33 @@ body
 
 .block {
   height:500px;
+  padding-left:10%; 
+  padding-top:10%;
+  padding-right:10%;
+  padding-bottom:10%;
+}
+
+.block-1pad {
+  height:500px;
+  padding-left:1%; 
+  padding-top:1%;
+  padding-right:1%;
+  padding-bottom:1%;
 }
 
 .biggerBlock{
   height:550px;
   position: center;
+  padding-left:10%; 
+  padding-right:10%;
 }
 
 .block-small{
   height:400px;
+  padding-left:7%; 
+  padding-top:7%;
+  padding-right:7%;
+  padding-bottom:7%;
 }
 
 .carouselText {

@@ -33,7 +33,7 @@
   <p><h3>Membres</h3></p>
    <div class="row">
       <div class="col-sm-6 col-md-4">
-        <div class="block transparency">
+        <div class="block-1pad transparency">
           <img src=<?php echo img_url("bbm.png")?> alt="Benjamin Brodeur Mathieu" class="img-responsive img-centered">
           <div class="caption">
             <h4>Directeur</h4>
@@ -42,7 +42,7 @@
         </div>
       </div>
       <div class="col-sm-6 col-md-4">
-        <div class="block transparency">
+        <div class="block-1pad transparency">
           <img src=<?php echo img_url("ca.png")?> alt="Chali-Anne Lauzon" class="img-responsive img-centered">
           <div class="caption">
             <h4>Secrétaire</h4>

@@ -17,10 +17,10 @@
 
   </head>
   <body >
-    <nav class="navbar navbar-default navbar-fixed-top transparency" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top shadow" role="navigation">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
-        <a class="navbar-brand" href=<?php echo site_url("start/home")?>>Poly Games</a>
+        <a class="navbar-brand" href=<?php echo site_url("start/accueil")?>>Poly Games</a>
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
