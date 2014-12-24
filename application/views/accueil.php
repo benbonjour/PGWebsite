@@ -1,6 +1,6 @@
  <div id="mainBody">
  
-<div class="col-md-6">
+<div class="col-md-5 col-md-offset-1">
     <h2 class="text-center">Évènements à venir</h2>
       <div id="upcoming" class="carousel slide transparency" data-ride="carousel">
 
@@ -53,7 +53,7 @@
 </div>
 
 
-<div class="col-md-6">
+<div class="col-md-5">
     <h2 class="text-center">Évènements récents</h2>
     <div id="past" class="carousel slide transparency" data-ride="carousel">
           
@@ -68,26 +68,26 @@
       <div class="carousel-inner">
 
         <div class="item active carouselItem">
+          <img class="img-responsive img-centered" src=<?php echo img_url("rencontreFinSession.png")?> alt="Game Jam été 2014">
+          <div class="carouselText">
+            <h2 class="featurette-heading"> 22 Décembre 2014 <br> <span class="text-muted">Réunion de fin de session A2014</span></h2>
+            <p class="lead">Bravo à l'équipe "Aight" vous êtes les gagnants de la courante itération avec votre jeu Brain_Game!</p>
+          </div>
+        </div>
+
+        <div class="item carouselItem">
+          <img class="img-responsive img-centered" src=<?php echo img_url("vinylDisc.png")?> alt="Rencontre fxDupas">
+          <div class="carouselText">
+            <h2 class="featurette-heading"> 24 Novembre 2014 <br> <span class="text-muted">Rencontre avec la faculté de musique de l'UdM</span></h2>
+            <p class="lead">Bientôt les étudiants de la faculté de musique viendront rejoindre les étudiants de Poly Games dans leurs projets!</p>
+          </div>
+        </div>
+
+        <div class="item carouselItem">
           <img class="img-responsive img-centered" src=<?php echo img_url("rencontreMiSession.png")?> alt="Rencontre de mi-session">
           <div class="carouselText">
             <h2 class="featurette-heading">3 Novembre 2014<br> <span class="text-muted">Rencontre de bilan de la mi-session</span></h2>
             <p class="lead">Nous avons tous hâte de voir ce que les équipes ont accomplies durant cette première moitié de session.</p>        
-          </div>
-        </div>
-
-        <div class="item carouselItem">
-          <img class="img-responsive img-centered" src=<?php echo img_url("gameJam.png")?> alt="Game Jam été 2014">
-          <div class="carouselText">
-            <h2 class="featurette-heading"> 15 Octobre 2014 <br> <span class="text-muted">Réunion de clôture du Game Jam 2014</span></h2>
-            <p class="lead">Juges de l'industrie, pizza et bière... quoi de mieu. Merci à tous d'avoir participés!</p>
-          </div>
-        </div>
-
-        <div class="item carouselItem">
-          <img class="img-responsive img-centered" src=<?php echo img_url("unrealEngine.png")?> alt="On a Unreal et gihub aussi...">
-          <div class="carouselText">
-            <h2 class="featurette-heading">7 Octobre 2014 <br> <span class="text-muted">Les licences d'Unreal Engine sont disponibles!</span></h2>
-            <p class="lead">Il suffit d'envoyer un email à : laurent.tremblay@polymtl.ca</p>
           </div>
         </div>
 
@@ -104,9 +104,35 @@
     </div>
 </div>
 
-<div class="col-md-12">
+<div class="col-md-10 col-md-offset-1">
 
   <h2 class="text-left">Évènements passés</h2>
+
+    <div class="panel panel-default transparency">
+        <div class="panel-body transparency">
+          <div class= "col-md-3">
+             <img class="img-responsive img-centered" src=<?php echo img_url("gameJam.png")?> alt="Game Jam été 2014">
+          </div>
+          <div class= "col-md-9">
+            <h4 class="text-left">15 Octobre 2014</h4>
+            <br>
+            <p>Réunion de clôture du Game Jam 2014 : Juges de l'industrie, pizza et bière... quoi de mieu. Merci à tous d'avoir participés!</p>
+          </div>
+        </div>
+    </div>
+
+    <div class="panel panel-default transparency">
+        <div class="panel-body transparency">
+          <div class= "col-md-3">
+             <img class="img-responsive img-centered" src=<?php echo img_url("unrealEngine.png")?> alt="On a Unreal et gihub aussi...">
+          </div>
+          <div class= "col-md-9">
+            <h4 class="text-left">7 Octobre 2014</h4>
+            <br>
+            <p>Les licences d'Unreal Engine sont disponibles! Il suffit d'envoyer un email à : laurent.tremblay@polymtl.ca</p>
+          </div>
+        </div>
+    </div>
   
     <div class="panel panel-default transparency">
         <div class="panel-body transparency">

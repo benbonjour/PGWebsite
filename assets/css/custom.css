@@ -38,13 +38,6 @@ body
   padding-bottom:1%;
 }
 
-.biggerBlock{
-  height:550px;
-  position: center;
-  padding-left:10%; 
-  padding-right:10%;
-}
-
 .block-small{
   height:400px;
   padding-left:7%; 

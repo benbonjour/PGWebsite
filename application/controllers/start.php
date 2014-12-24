@@ -37,6 +37,13 @@ class Start extends CI_Controller
 		$this->load->view("templates/footer");
 	}
 
+	public function forum()
+	{
+		$this->load->view("templates/header");
+		$this->load->view("forum");
+		$this->load->view("templates/footer");
+	}
+
 	public function projets()
 	{
 		$this->load->view("templates/header");
