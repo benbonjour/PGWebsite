@@ -7,34 +7,18 @@
           <!-- Indicators -->
           <ol class="carousel-indicators">
             <li data-target="#upcoming" data-slide-to="0" class="active"></li>
-            <li data-target="#upcoming" data-slide-to="1"></li>
-            <li data-target="#upcoming" data-slide-to="2"></li>
+            <!--<li data-target="#upcoming" data-slide-to="1"></li>-->
+            <!--<li data-target="#upcoming" data-slide-to="2"></li>-->
           </ol>
 
           <!-- Carousel items -->
           <div class="carousel-inner">
 
-            <div class="item carouselItem">
-              <img class="img-responsive img-centered" src=<?php echo img_url("creativeJam.png")?> alt="Rencontre des P.O.">
-              <div class="carouselText">
-                <h2 class="featurette-heading"> 16-18 Janvier 2015 <br> <span class="text-muted">Creative Jam au NAD</span></h2>
-                <p class="lead"> <br>Au programme : un deuxième hackathon d'une durée de 36 heures en équipes de 6 avec les étudiants du NAD!</p>  
-              </div>
-            </div>
-
-            <div id="pgHack2014" class="item carouselItem">
+            <div id="pgHack2014" class="item active carouselItem">
               <img class="img-responsive img-centered" src=<?php echo img_url("toBeAnnounced.png")?> alt="Hackhaton 2015 banner">
               <div class="carouselText">
                 <h2 class="featurette-heading"> TBA /2015 <br> <span class="text-muted">Poly Games Hackathon 2</span></h2>
                 <p class="lead"> <br>Deuxième compétition officielle organisée par Poly Games, 36 heures de création vous attendent! <a href=<?php echo site_url("start/competitions")?>>En savoir plus </a></p>
-              </div>
-            </div>
-
-            <div class="item active carouselItem">
-              <img class="img-responsive img-centered" src=<?php echo img_url("globalGameJam.png")?> alt="Des artistes">
-              <div class="carouselText">  
-                <h2 class="featurette-heading"> 23-25 Janvier 2015 <br> <span class="text-muted">Global Game Jam MTL edition</span></h2>
-                <p class="lead"> <br> Le Global Game Jam est à nos portes à nous d'être à la hauteur ! <a href="http://globalgamejam.org/"> Site Officiel</a></p>      
               </div>
             </div>
 
@@ -68,6 +52,22 @@
       <div class="carousel-inner">
 
         <div class="item active carouselItem">
+          <img class="img-responsive img-centered" src=<?php echo img_url("globalGameJam.png")?> alt="Des artistes">
+          <div class="carouselText">  
+            <h2 class="featurette-heading"> 23-25 Janvier 2015 <br> <span class="text-muted">Global Game Jam MTL edition</span></h2>
+            <p class="lead"> <br> Le Global Game Jam est à nos portes à nous d'être à la hauteur ! <a href="http://globalgamejam.org/"> Site Officiel</a></p>      
+          </div>
+        </div>
+
+        <div class="item carouselItem">
+          <img class="img-responsive img-centered" src=<?php echo img_url("creativeJam.png")?> alt="Rencontre des P.O.">
+          <div class="carouselText">
+            <h2 class="featurette-heading"> 16-18 Janvier 2015 <br> <span class="text-muted">Creative Jam au NAD</span></h2>
+            <p class="lead"> <br>Au programme : un deuxième hackathon d'une durée de 36 heures en équipes de 6 avec les étudiants du NAD!</p>  
+          </div>
+        </div>
+
+        <div class="item carouselItem">
           <img class="img-responsive img-centered" src=<?php echo img_url("rencontreFinSession.png")?> alt="Game Jam été 2014">
           <div class="carouselText">
             <h2 class="featurette-heading"> 22 Décembre 2014 <br> <span class="text-muted">Réunion de fin de session A2014</span></h2>
@@ -75,22 +75,7 @@
           </div>
         </div>
 
-        <div class="item carouselItem">
-          <img class="img-responsive img-centered" src=<?php echo img_url("vinylDisc.png")?> alt="Rencontre fxDupas">
-          <div class="carouselText">
-            <h2 class="featurette-heading"> 24 Novembre 2014 <br> <span class="text-muted">Rencontre avec la faculté de musique de l'UdM</span></h2>
-            <p class="lead">Bientôt les étudiants de la faculté de musique viendront rejoindre les étudiants de Poly Games dans leurs projets!</p>
-          </div>
-        </div>
-
-        <div class="item carouselItem">
-          <img class="img-responsive img-centered" src=<?php echo img_url("rencontreMiSession.png")?> alt="Rencontre de mi-session">
-          <div class="carouselText">
-            <h2 class="featurette-heading">3 Novembre 2014<br> <span class="text-muted">Rencontre de bilan de la mi-session</span></h2>
-            <p class="lead">Nous avons tous hâte de voir ce que les équipes ont accomplies durant cette première moitié de session.</p>        
-          </div>
-        </div>
-
+        
       </div>
 
       <!-- Carousel nav -->
@@ -107,6 +92,32 @@
 <div class="col-md-10 col-md-offset-1">
 
   <h2 class="text-left">Évènements passés</h2>
+
+    <div class="panel panel-default transparency">
+        <div class="panel-body transparency">
+          <div class= "col-md-3">
+              <img class="img-responsive img-centered" src=<?php echo img_url("vinylDisc.png")?> alt="Rencontre fxDupas">
+          </div>
+          <div class= "col-md-9">
+            <h4 class="text-left">24 Novembre 2014</h4>
+            <br>
+            <p>Rencontre avec la faculté de musique de l'UdM : Bientôt les étudiants de la faculté de musique viendront rejoindre les étudiants de Poly Games dans leurs projets!</p>
+          </div>
+        </div>
+    </div>
+
+    <div class="panel panel-default transparency">
+        <div class="panel-body transparency">
+          <div class= "col-md-3">
+             <img class="img-responsive img-centered" src=<?php echo img_url("rencontreMiSession.png")?> alt="Rencontre de mi-session">
+          </div>
+          <div class= "col-md-9">
+            <h4 class="text-left">3 Novembre 2014</h4>
+            <br>
+            <p>Rencontre de bilan de la mi-session : Nous avons tous hâte de voir ce que les équipes ont accomplies durant cette première moitié de session.</p>
+          </div>
+        </div>
+    </div>
 
     <div class="panel panel-default transparency">
         <div class="panel-body transparency">

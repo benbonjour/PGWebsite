@@ -38,7 +38,7 @@
     </nav>
 
   <div class="text-center">
-    <img id="logo" src=<?php echo img_url("icon.png") ?> alt="Poly Games Logo">
+    <img id="logo" src=<?php echo img_url("logo.png") ?> alt="Poly Games Logo">
   </div>
 
  
