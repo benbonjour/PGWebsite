@@ -72,7 +72,8 @@ body
 }
 
 #logo {
-  max-width: 60%;
+  margin-top: 110px;
+  max-width: 30%;
   height: auto;
 }
 
