@@ -86,3 +86,8 @@ body
   /* Pad bottom by footer height */
   padding: 0 0 60px;
 }
+
+#imageDansCarousel
+{
+  height: 300px;
+}
