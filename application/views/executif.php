@@ -54,10 +54,10 @@
       </div>
       <div class="col-sm-6 col-md-4">
         <div class="block-1pad transparency">
-          <img src=<?php echo img_url("logo.png")?> alt="Image à venir" class="img-responsive img-centered">
+          <img src=<?php echo img_url("ca.png")?> alt="Image à venir" class="img-responsive img-centered">
           <div class="caption">
             <h4>Vice-président externe</h4>
-            <p> Le vice-président externe maintien des relations cordiales avec les divers organismes associés et intervenants.</p>
+            <p> En tant que vice-présidente externe, <b>Chali-Anne Lauzon</b>, maintient des relations cordiales avec les divers organismes associés et intervenants.</p>
           </div>
         </div>
       </div>
@@ -101,17 +101,17 @@
           <img src=<?php echo img_url("ma.png")?> alt="Mackly Férère-Antoine" class="img-responsive img-centered" id="imageDansCarousel">
           <div class="caption">
             <h4>Webmaster</h4>
-            <p> Le Webmaster s'assure du bon fonctionnement du site web et de sa mise à jour quotidienne.</p>
+            <p> En tant que Webmaster, <b>Mackly Férère-Antoine</b>, s'assure du bon fonctionnement du site web et de sa mise à jour quotidienne.</p>
           </div>
         </div>
       </div>
       <div class="col-sm-6 col-md-4">
         <div class="block-1pad transparency">
-          <img src=<?php echo img_url("ca.png")?> alt="Chali-Anne Lauzon" class="img-responsive img-centered">
+          <img src=<?php echo img_url("ja.png")?> alt="Chali-Anne Lauzon" class="img-responsive img-centered">
           <div class="caption">
             <h4>Secrétaire</h4>
-            <p> En tant que secrétaire, <b>Chali-Anne Lauzon</b> se doit de gérer et coordonner avec l'aide du directeur l'ensemble des activités de la société. 
-                Elle participe également à la rédaction des documents officiels.</p>
+            <p> En tant que secrétaire, <b>Julien Aymong</b> se doit de gérer et coordonner avec l'aide du directeur l'ensemble des activités de la société. 
+                Il participe également à la rédaction des documents officiels.</p>
           </div>
         </div>
       </div>
