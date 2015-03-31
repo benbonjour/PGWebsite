@@ -7,18 +7,34 @@
           <!-- Indicators -->
           <ol class="carousel-indicators">
             <li data-target="#upcoming" data-slide-to="0" class="active"></li>
-            <!--<li data-target="#upcoming" data-slide-to="1"></li>-->
-            <!--<li data-target="#upcoming" data-slide-to="2"></li>-->
+            <li data-target="#upcoming" data-slide-to="1"></li>
+            <li data-target="#upcoming" data-slide-to="2"></li>
           </ol>
 
           <!-- Carousel items -->
           <div class="carousel-inner">
 
             <div id="pgHack2014" class="item active carouselItem">
-              <img class="img-responsive img-centered" src=<?php echo img_url("toBeAnnounced.png")?> alt="Hackhaton 2015 banner">
+              <img class="img-responsive img-centered" src=<?php echo img_url("camera.png")?> alt="Admin Picture">
               <div class="carouselText">
-                <h2 class="featurette-heading"> TBA /2015 <br> <span class="text-muted">Poly Games Hackathon 2</span></h2>
-                <p class="lead"> <br>Deuxième compétition officielle organisée par Poly Games, 36 heures de création vous attendent! <a href=<?php echo site_url("start/competitions")?>>En savoir plus </a></p>
+                <h2 class="featurette-heading">Jeudi 16 avril 2015 - 12h45<br> <span class="text-muted">Prise en photo du comité administratif</span></h2>
+                <p class="lead"> <br>Tous les membres sont attendus pour la prise de photo du comité administratif.</p>
+              </div>
+            </div>
+
+            <div id="pgHack2014" class="item carouselItem">
+              <img class="img-responsive img-centered" src=<?php echo img_url("brushes.png")?> alt="Hackhaton 2015 banner">
+              <div class="carouselText">
+                <h2 class="featurette-heading"> Fin de semaine 21-23 août 2015<br> <span class="text-muted">Creative Jam au NAD </span></h2>
+                <p class="lead"> <br>Deuxième compétition officielle organisée par Poly Games, 36 heures de création vous attendent!</p>
+              </div>
+            </div>
+
+            <div id="pgHack2014" class="item carouselItem">
+              <img class="img-responsive img-centered" src=<?php echo img_url("ImagineCup.png")?> alt="Imagine Cup">
+              <div class="carouselText">
+                <h2 class="featurette-heading"> Session d’automne <br> <span class="text-muted">Imagine Cup</span></h2>
+                <p class="lead"> <br>Participation de Polygames à la compétition Imagine Cup </p>
               </div>
             </div>
 
@@ -52,30 +68,29 @@
       <div class="carousel-inner">
 
         <div class="item active carouselItem">
-          <img class="img-responsive img-centered" src=<?php echo img_url("globalGameJam.png")?> alt="Des artistes">
+          <img class="img-responsive img-centered" src=<?php echo img_url("meeting.png")?> alt="Réunion de mi-session">
           <div class="carouselText">  
+            <h2 class="featurette-heading"> Jeudi 19 mars 2015 <br> <span class="text-muted">Réunion de mi-session</span></h2>
+            <p class="lead"> <br> Rencontre durant laquelle chaque équipe présente l'avancement de leur projet! </p>      
+          </div>
+        </div>       
+
+        <div class="item carouselItem">
+          <img class="img-responsive img-centered" src=<?php echo img_url("Unreal.png")?> alt="BluePrints!">
+          <div class="carouselText">  
+            <h2 class="featurette-heading"> Vendredi 20 février 2015 <br> <span class="text-muted">Formation Unreal</span></h2>
+            <p class="lead"> <br> Tutoriel sur l'utilisation du logiciel Unreal Engine 4 </p>      
+          </div>
+        </div>
+
+        <div class="item carouselItem">
+          <img class="img-responsive img-centered" src=<?php echo img_url("globalGameJam.png")?> alt="Des artistes">
+          <div class="carouselText">
             <h2 class="featurette-heading"> 23-25 Janvier 2015 <br> <span class="text-muted">Global Game Jam MTL edition</span></h2>
-            <p class="lead"> <br> Le Global Game Jam est à nos portes à nous d'être à la hauteur ! <a href="http://globalgamejam.org/"> Site Officiel</a></p>      
+            <p class="lead"> <br>Le Global Game Jam est à nos portes à nous d'être à la hauteur ! <a href="http://globalgamejam.org/"> Site Officiel</a></p>  
           </div>
         </div>
 
-        <div class="item carouselItem">
-          <img class="img-responsive img-centered" src=<?php echo img_url("creativeJam.png")?> alt="Rencontre des P.O.">
-          <div class="carouselText">
-            <h2 class="featurette-heading"> 16-18 Janvier 2015 <br> <span class="text-muted">Creative Jam au NAD</span></h2>
-            <p class="lead"> <br>Au programme : un deuxième hackathon d'une durée de 36 heures en équipes de 6 avec les étudiants du NAD!</p>  
-          </div>
-        </div>
-
-        <div class="item carouselItem">
-          <img class="img-responsive img-centered" src=<?php echo img_url("rencontreFinSession.png")?> alt="Game Jam été 2014">
-          <div class="carouselText">
-            <h2 class="featurette-heading"> 22 Décembre 2014 <br> <span class="text-muted">Réunion de fin de session A2014</span></h2>
-            <p class="lead">Bravo à l'équipe "Aight" vous êtes les gagnants de la courante itération avec votre jeu Brain_Game!</p>
-          </div>
-        </div>
-
-        
       </div>
 
       <!-- Carousel nav -->
@@ -92,6 +107,32 @@
 <div class="col-md-10 col-md-offset-1">
 
   <h2 class="text-left">Évènements passés</h2>
+
+    <div class="panel panel-default transparency">
+        <div class="panel-body transparency">
+          <div class= "col-md-3">
+              <img class="img-responsive img-centered" src=<?php echo img_url("creativeJam.png")?> alt="Rencontre des P.O.">
+          </div>
+          <div class= "col-md-9">
+            <h4 class="text-left">16-18 Janvier 2015 </h4>
+            <br>
+            <p>Creative Jam au NAD : un deuxième hackathon d'une durée de 36 heures en équipes de 6 avec les étudiants du NAD!</p>
+          </div>
+        </div>
+    </div>
+
+    <div class="panel panel-default transparency">
+        <div class="panel-body transparency">
+          <div class= "col-md-3">
+              <img class="img-responsive img-centered" src=<?php echo img_url("rencontreFinSession.png")?> alt="Game Jam été 2014">
+          </div>
+          <div class= "col-md-9">
+            <h4 class="text-left">22 Décembre 2014</h4>
+            <br>
+            <p>Réunion de fin de session A2014 : Bravo à l'équipe "Aight" vous êtes les gagnants de la courante itération avec votre jeu Brain_Game!</p>
+          </div>
+        </div>
+    </div>
 
     <div class="panel panel-default transparency">
         <div class="panel-body transparency">
