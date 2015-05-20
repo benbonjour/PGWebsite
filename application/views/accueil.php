@@ -1,4 +1,4 @@
- <div id="mainBody">
+<div id="mainBody">
  
 <div class="col-md-5 col-md-offset-1">
     <h2 class="text-center">Évènements à venir</h2>
@@ -8,21 +8,13 @@
           <ol class="carousel-indicators">
             <li data-target="#upcoming" data-slide-to="0" class="active"></li>
             <li data-target="#upcoming" data-slide-to="1"></li>
-            <li data-target="#upcoming" data-slide-to="2"></li>
+            <!--<li data-target="#upcoming" data-slide-to="2"></li>-->
           </ol>
 
           <!-- Carousel items -->
           <div class="carousel-inner">
 
             <div id="pgHack2014" class="item active carouselItem">
-              <img class="img-responsive img-centered" src=<?php echo img_url("camera.png")?> alt="Admin Picture">
-              <div class="carouselText">
-                <h2 class="featurette-heading">Jeudi 16 avril 2015 - 12h45<br> <span class="text-muted">Prise en photo du comité administratif</span></h2>
-                <p class="lead"> <br>Tous les membres sont attendus pour la prise de photo du comité administratif.</p>
-              </div>
-            </div>
-
-            <div id="pgHack2014" class="item carouselItem">
               <img class="img-responsive img-centered" src=<?php echo img_url("brushes.png")?> alt="Hackhaton 2015 banner">
               <div class="carouselText">
                 <h2 class="featurette-heading"> Fin de semaine 21-23 août 2015<br> <span class="text-muted">Creative Jam au NAD </span></h2>
@@ -68,6 +60,14 @@
       <div class="carousel-inner">
 
         <div class="item active carouselItem">
+          <img class="img-responsive img-centered" src=<?php echo img_url("meeting2.png")?> alt="Réunion de fin de session">
+          <div class="carouselText">  
+            <h2 class="featurette-heading">Mardi le 28 Avril 11h45<br> <span class="text-muted">Réunion de clôture</span></h2>
+            <p class="lead"> <br> Rencontre durant laquelle chaque équipe présente le résultat possiblement final de leur projet!</p>      
+          </div>
+        </div>
+
+        <div class="item carouselItem">
           <img class="img-responsive img-centered" src=<?php echo img_url("meeting.png")?> alt="Réunion de mi-session">
           <div class="carouselText">  
             <h2 class="featurette-heading"> Jeudi 19 mars 2015 <br> <span class="text-muted">Réunion de mi-session</span></h2>
@@ -80,14 +80,6 @@
           <div class="carouselText">  
             <h2 class="featurette-heading"> Vendredi 20 février 2015 <br> <span class="text-muted">Formation Unreal</span></h2>
             <p class="lead"> <br> Tutoriel sur l'utilisation du logiciel Unreal Engine 4 </p>      
-          </div>
-        </div>
-
-        <div class="item carouselItem">
-          <img class="img-responsive img-centered" src=<?php echo img_url("globalGameJam.png")?> alt="Des artistes">
-          <div class="carouselText">
-            <h2 class="featurette-heading"> 23-25 Janvier 2015 <br> <span class="text-muted">Global Game Jam MTL edition</span></h2>
-            <p class="lead"> <br>Le Global Game Jam est à nos portes à nous d'être à la hauteur ! <a href="http://globalgamejam.org/"> Site Officiel</a></p>  
           </div>
         </div>
 
@@ -107,6 +99,19 @@
 <div class="col-md-10 col-md-offset-1">
 
   <h2 class="text-left">Évènements passés</h2>
+
+    <div class="panel panel-default transparency">
+        <div class="panel-body transparency">
+          <div class= "col-md-3">
+              <img class="img-responsive img-centered" src=<?php echo img_url("globalGameJam.png")?> alt="Des artistes">
+          </div>
+          <div class= "col-md-9">
+            <h4 class="text-left">23-25 Janvier 2015 </h4>
+            <br>
+            <p>Global Game Jam MTL edition : rassemblement de différentes équipes d'étudiants afin de construire un projet original en moins de 48 heures! <a href="http://globalgamejam.org/"> Site Officiel</a></p>
+          </div>
+        </div>
+    </div>
 
     <div class="panel panel-default transparency">
         <div class="panel-body transparency">

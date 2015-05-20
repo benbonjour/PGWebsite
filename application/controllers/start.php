@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 class Start extends CI_Controller
 {
@@ -76,6 +76,13 @@ class Start extends CI_Controller
 	{
 		$this->load->view("templates/header");
 		$this->load->view("contactezNous");
+		$this->load->view("templates/footer");
+	}
+
+	public function inscription()
+	{
+		$this->load->view("templates/header");
+		$this->load->view("inscription");
 		$this->load->view("templates/footer");
 	}
 }

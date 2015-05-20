@@ -12,7 +12,6 @@
              <h3>Adresse officielle</h3>
              <p>École Polytechnique de Montréal<br>
              2500 chemin de Polytechnique<br>
-             Local L-3723<br>
              Montréal (Qc), H3T 1J4<br>
              Canada</p>
            <h3>Téléphone</h3>
