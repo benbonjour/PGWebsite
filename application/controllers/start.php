@@ -85,5 +85,11 @@ class Start extends CI_Controller
 		$this->load->view("inscription");
 		$this->load->view("templates/footer");
 	}
+	public function test()
+	{
+		$this->load->view("templates/header");
+		$this->load->view("templates/test");
+		$this->load->view("templates/footer");
+	}
 }
 
