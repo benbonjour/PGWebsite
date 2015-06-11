@@ -72,7 +72,8 @@ body
 }
 
 #logo {
-  max-width: 60%;
+  margin-top: 110px;
+  max-width: 30%;
   height: auto;
 }
 
@@ -84,4 +85,14 @@ body
   margin-right: 32px;
   /* Pad bottom by footer height */
   padding: 0 0 60px;
+}
+
+#imageDansCarousel
+{
+  height: 300px;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
 }

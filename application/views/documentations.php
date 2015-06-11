@@ -24,10 +24,11 @@
             <h4>Documents utiles</h4>
             <p>
             	<ul>
-            		<li><a href=<?php echo doc_url("Document_Conception.docx")?>>Document de conception</a></li>
-                <li><a href=<?php echo doc_url("EquipesItération3V1.0.pdf")?>>Liste des équipes A_2014 V 1.0</a></li>
-                <li><a href=<?php echo doc_url("EquipesItération2V1.0.pdf")?>>Liste des équipes H_2014 V 1.0</a></li>
-                <li><a href=<?php echo doc_url("EquipesItération1V1.0.pdf")?>>Liste des équipes A_2013 V 1.0</a></li>
+            		<li><a href=<?php echo doc_url("One-sheet&GDD.pptx")?>>Document de conception</a></li>
+                <li><a href=<?php echo doc_url("EquipesH2015.pdf")?>>Liste des équipes H_2015</a></li>
+                <li><a href=<?php echo doc_url("EquipesItération3V1.0.pdf")?>>Liste des équipes A_2014 </a></li>
+                <li><a href=<?php echo doc_url("EquipesItération2V1.0.pdf")?>>Liste des équipes H_2014 </a></li>
+                <li><a href=<?php echo doc_url("EquipesItération1V1.0.pdf")?>>Liste des équipes A_2013 </a></li>
             	</ul>
             </p>
       	</div>
